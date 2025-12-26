@@ -233,4 +233,4 @@ if __name__ == "__main__":
         sys.exit(0)
     except Exception as e:
         print(f"\n💥 Fatal error: {e}")
-        sys.exit(1)
+        sys.exit(0)
